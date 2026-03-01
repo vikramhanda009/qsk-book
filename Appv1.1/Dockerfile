@@ -3,7 +3,7 @@ FROM node:current-alpine
 
 LABEL org.opencontainers.image.title="Quick Start Kubernetes!" \
       org.opencontainers.image.description="Web server showing host that responded" \
-      org.opencontainers.image.authors="@nigelpoulton"
+      org.opencontainers.image.authors="@VikramHanda"
 
 # Create directory in container image for app code
 RUN mkdir -p /usr/src/app

@@ -19,5 +19,5 @@ spec:
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
-        image: nigelpoulton/qsk-book:1.0
+        image: vikramhanda007/qsk-book
 
